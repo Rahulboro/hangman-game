@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: Kanit;
+}
+body{
+    background:  #6DC5D1;
+}
+.container{
+    background: #FDE49E;
+    font-size: 16px;
+    width: 90vw;
+    max-width: 35em;
+    position: absolute;
+    transform: translate(50%, 50%);
+}
